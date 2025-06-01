@@ -1,6 +1,6 @@
 # **Differential NAS for Real-Time On-Mobile Video Super-Resolution**
 
-Code of 'Differential NAS for Real-Time On-Mobile Video Super-Resolution' for review
+Code of 'Leveraging differentiable NAS and abstract genetic algorithms for optimizing on-mobile VSR performance'. DOI: `10.1007/s10994-025-06801-5`
 
 ## RuntimeEvaluationHttpServer Directory
 
